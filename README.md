@@ -15,7 +15,7 @@
 ## 📽️ See more video samples in our <a href="https://yanghlll.github.io/ScalingNoise.github.io"> project page</a>!
 <div align="center">
 
-<img src="assets/scalenoise.gif">
+<img src="asset/scalenoise.gif">
 
 "Impressionist style, a yellow rubber duck floating on the wave on the sunset, 4k resolution.", 
 
