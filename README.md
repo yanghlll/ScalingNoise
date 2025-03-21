@@ -12,20 +12,17 @@
 
 </div>
 
-## 📽️ See more video samples in our <a href="https://jjihwan.github.io/projects/FIFO-Diffusion"> project page</a>!
+## 📽️ See more video samples in our <a href="https://yanghlll.github.io/ScalingNoise.github.io"> project page</a>!
 <div align="center">
 
-
-<video width="320" height="512" controls>
-  <source src="asset/Impressionist style, a yellow rubber duck floating on the wave on the sunset, 4k resolution._0.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="assets/scalenoise.gif">
 
 "Impressionist style, a yellow rubber duck floating on the wave on the sunset, 4k resolution.", 
 
 VideoCrafter2, 100 frames, 320 X 512 resolution
 
 </div>
+
 ## Clone our repository
 ```
 git clone https://github.com/yanghlll/ScalingNoise.git
