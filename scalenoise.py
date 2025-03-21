@@ -120,7 +120,7 @@ def main(args):
 if __name__ == "__main__":
 
     parser = ArgumentParser()
-    parser.add_argument("--ckpt_path", type=str, default='../videocrafter_models/base_512_v2/model.ckpt', help="checkpoint path")
+    parser.add_argument("--ckpt_path", type=str, default='videocrafter_models/base_512_v2/model.ckpt', help="checkpoint path")
     parser.add_argument("--config", type=str, default="configs/inference_t2v_512_v2.0.yaml", help="config (yaml) path")
     parser.add_argument("--seed", type=int, default=321)
     parser.add_argument("--video_length", type=int, default=16, help="f in FIFO paper")
