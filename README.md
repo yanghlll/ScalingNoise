@@ -60,21 +60,25 @@ bash scalenoise.sh
 ## Generic Text-to-video Generation
 
 <table class="center">
-  <td><img src=assets/fireworks.gif width="320"></td>
-  <td><img src=assets/raccon.gif width="320"></td>
+<tr>
+    <td><img src="assets/fireworks.gif" width="320"></td>
+    <td><img src="assets/raccon.gif" width="320"></td>
+  </tr>
   <tr>
-  <td style="text-align:center;" width="320">"A spectacular ﬁreworks display over Sydney Harbour, 4K, high resolution."</td>
-  <td style="text-align:center;" width="320">"A cute raccoon playing guitar in a boat on the ocean, 4k resolution."</td>
-  <tr>
-</table >
+    <td style="text-align:center;" width="320">"A spectacular ﬁreworks display over Sydney Harbour, 4K, high resolution."</td>
+    <td style="text-align:center;" width="320">"A cute raccoon playing guitar in a boat on the ocean, 4k resolution."</td>
+  </tr>
+</table>
 
 <table class="center">
-  <td><img src=assets/t2v/cabin.gif width="320"></td>
-  <td><img src=assets/t2v/reindeer.gif width="320"></td>
   <tr>
-  <td style="text-align:center;" width="320">"A cozy, low-poly cabin in the woods surrounded by tall pine trees, with a warm light glowing from the windows and smoke curling from the chimney, 4k resolution."</td>
-  <td style="text-align:center;" width="320">"Cinematic closeup and detailed portrait of a reindeer in a snowy forest at sunset.""</td>
+    <td><img src="assets/t2v/cabin.gif" width="320"></td>
+    <td><img src="assets/t2v/reindeer.gif" width="320"></td>
+  </tr>
   <tr>
+    <td style="text-align:center;" width="320">"A cozy, low-poly cabin in the woods surrounded by tall pine trees, with a warm light glowing from the windows and smoke curling from the chimney, 4k resolution."</td>
+    <td style="text-align:center;" width="320">"Cinematic closeup and detailed portrait of a reindeer in a snowy forest at sunset."</td>
+  </tr>
 </table >
 
 
