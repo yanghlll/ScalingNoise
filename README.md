@@ -61,8 +61,8 @@ bash scalenoise.sh
 
 <table class="center">
 <tr>
-    <td><img src="assets/fireworks.gif" width="320"></td>
-    <td><img src="assets/raccon.gif" width="320"></td>
+    <td><img src="asset/fireworks.gif" width="320"></td>
+    <td><img src="asset/raccon.gif" width="320"></td>
   </tr>
   <tr>
     <td style="text-align:center;" width="320">"A spectacular ﬁreworks display over Sydney Harbour, 4K, high resolution."</td>
@@ -72,8 +72,8 @@ bash scalenoise.sh
 
 <table class="center">
   <tr>
-    <td><img src="assets/t2v/cabin.gif" width="320"></td>
-    <td><img src="assets/t2v/reindeer.gif" width="320"></td>
+    <td><img src="asset/cabin.gif" width="320"></td>
+    <td><img src="asset/reindeer.gif" width="320"></td>
   </tr>
   <tr>
     <td style="text-align:center;" width="320">"A cozy, low-poly cabin in the woods surrounded by tall pine trees, with a warm light glowing from the windows and smoke curling from the chimney, 4k resolution."</td>
