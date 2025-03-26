@@ -85,6 +85,3 @@ bash scalenoise.sh
 ## 🤓 Acknowledgements
 Our codebase builds on [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) and [FIFO-Diffusion](https://github.com/jjihwan/FIFO-Diffusion_public). 
 Thanks to the authors for sharing their awesome codebases!
-
-
-##coll test
